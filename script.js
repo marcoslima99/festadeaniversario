@@ -25,7 +25,7 @@ function calcular(){
 
     resultado.innerHTML = `<p>${qdtTotalSalgados} Unidades de Salgados</p>`
     resultado.innerHTML += `<p>${qdtTotalCerveja} Latinhas de Cerveja</p>`
-    resultado.innerHTML += `<p>${Math.ceil(qdtTotalBebidas /2000)} Pet's de 2L  de Bebidas</p>`
+    resultado.innerHTML += `<p>${Math.ceil(qdtTotalBebidas /2000)} Pet's de 2L  de Bebidas </p>`
     resultado.innerHTML += `<p> Bolo com  ${qdtTotalBolo} Fatias</p>`
 
 
